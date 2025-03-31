@@ -6,3 +6,4 @@
 취업율 : https://data.gg.go.kr/portal/data/service/selectServicePage.do?page=1&rows=10&sortColumn=&sortDirection=&infId=F0RT6FDVL1GEJODCMSUZ15072207&infSeq=1&order=&searchWord=%EC%B7%A8%EC%97%85
 경찰서 : https://data.gg.go.kr/portal/data/service/selectServicePage.do?page=1&rows=10&sortColumn=&sortDirection=&infId=V0Z54IVGYGI4841E9BLH17961616&infSeq=1&order=&loc=&searchWord=%EA%B2%BD%EC%B0%B0%EA%B4%80%EC%84%9C+%ED%98%84%ED%99%A9 (경기데이터드림) / https://www.ggpolice.go.kr/main/index.do (경기남부경찰청) / https://www.ggbpolice.go.kr/mainPage.do (경기북부경찰청)
 실업률 : https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_1ES3A01S&conn_path=I2
+소비자물가지수 : https://kosis.kr/ (통계청)
