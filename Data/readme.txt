@@ -28,3 +28,4 @@
 
 전국유흥주점: https://www.data.go.kr/data/15045018/fileData.do (공공데이터포털)
 유흥주점 연도별 통계.ipynb: https://colab.research.google.com/drive/1hykQpYOKgjO9-_mbwXTEy70-mFuqRHPg?usp=sharing
+다문화가구 https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1JD1501&conn_path=I2 (통계청)
