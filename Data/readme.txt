@@ -11,3 +11,4 @@
 경기도 유동 인구(2022-2024) : https://data.gg.go.kr/portal/data/service/selectServicePage.do?page=1&rows=10&sortColumn=&sortDirection=&infId=6SQDOFXWTXA9V98HRO8E34907014&infSeq=2&order=&loc= (경기데이터드림)
 경기도 유동 인구 (2020) : https://data.gg.go.kr/portal/data/service/selectServicePage.do?page=1&rows=10&sortColumn=&sortDirection=&infId=6NOSUTB9NJAKABX5DFCJ31197470&infSeq=1&order=&loc= (경기데이터드림)
 경기도 월평균소득 : https://www.data.go.kr/data/3046077/fileData.do?recommendDataYn=Y
+노령화지수 : https://kosis.kr/ (통계청 - 주요 인구지표 부양비_노령화지수_시군구)
