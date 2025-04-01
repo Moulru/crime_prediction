@@ -25,3 +25,6 @@
 서울시 자치구 (연도별) CCTV 설치현황 : https://data.seoul.go.kr/dataList/OA-2734/F/1/datasetView.do (서울 열린데이터 광장)
 대한민국 행정구역 별 국토이용현황 : https://stat.molit.go.kr/portal/cate/statView.do?hRsId=24&hFormId=2300&hDivEng=&month_yn= (국토교통 통계누리)
 타지역 통근 취업자 : https://kosis.kr/statHtml/statHtml.do?sso=ok&returnurl=https%3A%2F%2Fkosis.kr%3A443%2FstatHtml%2FstatHtml.do%3Fconn_path%3DI2%26tblId%3DINH_1ES3A11S%26orgId%3D101%26 (통계청)
+
+전국유흥주점: https://www.data.go.kr/data/15045018/fileData.do (공공데이터포털)
+유흥주점 연도별 통계.ipynb: https://colab.research.google.com/drive/1hykQpYOKgjO9-_mbwXTEy70-mFuqRHPg?usp=sharing
