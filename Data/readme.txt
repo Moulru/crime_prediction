@@ -14,5 +14,6 @@
 노령화지수 : https://kosis.kr/ (통계청 - 주요 인구지표 부양비_노령화지수_시군구)
 인구수 : https://kosis.kr/ (KOSIS 국가통계포털 - 행정구역(시군구)별, 성별 인구수)
 
+경기 데이터 드림(경기도 CCTV 현황)https://data.gg.go.kr/portal/data/service/selectServicePage.do?&infId=VIPK0N53968Q7DV5TT2312643570&infSeq=1
 서울시 자치구 (연도별) CCTV 설치현황 : https://data.seoul.go.kr/dataList/OA-2734/F/1/datasetView.do (서울 열린데이터 광장)
 대한민국 행정구역 별 국토이용현황 : https://stat.molit.go.kr/portal/cate/statView.do?hRsId=24&hFormId=2300&hDivEng=&month_yn= (국토교통 통계누리)
