@@ -8,6 +8,7 @@
 경찰서 : https://data.gg.go.kr/portal/data/service/selectServicePage.do?page=1&rows=10&sortColumn=&sortDirection=&infId=V0Z54IVGYGI4841E9BLH17961616&infSeq=1&order=&loc=&searchWord=%EA%B2%BD%EC%B0%B0%EA%B4%80%EC%84%9C+%ED%98%84%ED%99%A9 (경기데이터드림) / https://www.ggpolice.go.kr/main/index.do (경기남부경찰청) / https://www.ggbpolice.go.kr/mainPage.do (경기북부경찰청)
 경찰청_전국 지구대 & 파출소 현황(공공데이터포털) - https://www.data.go.kr/data/15077036/fileData.do
 서울특별시 경찰서별 경찰관 수 현황(공공데이터포털) - https://www.data.go.kr/data/15114290/fileData.do
+2022년 전국 경찰서별 경찰관 수 현황(공공데이터포털)- https://www.data.go.kr/data/15092089/fileData.do?recommendDataYn=Y
 
 실업률 : https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=INH_1ES3A01S&conn_path=I2
 소비자물가지수 : https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_2KAA601_02&conn_path=I2 (통계청)
