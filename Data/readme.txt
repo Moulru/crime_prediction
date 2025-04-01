@@ -12,3 +12,5 @@
 유동 인구 (2020) : https://data.gg.go.kr/portal/data/service/selectServicePage.do?page=1&rows=10&sortColumn=&sortDirection=&infId=6NOSUTB9NJAKABX5DFCJ31197470&infSeq=1&order=&loc= (경기데이터드림)
 월평균소득 : https://www.data.go.kr/data/3046077/fileData.do?recommendDataYn=Y, https://kosis.kr/index/index.do (국가통계포털)
 노령화지수 : https://kosis.kr/ (통계청 - 주요 인구지표 부양비_노령화지수_시군구)
+
+서울시 자치구 (연도별) CCTV 설치현황 : https://data.seoul.go.kr/dataList/OA-2734/F/1/datasetView.do (서울 열린데이터 광장)
