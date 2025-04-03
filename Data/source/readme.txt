@@ -1,4 +1,4 @@
-프로젝트에 사용된 공공데이터 및 전처리가 완료된 csv파일
+프로젝트에 사용된 공공데이터 파일 출처
 
 (출처)
 지역별 범죄발생 횟수 통계 : https://www.data.go.kr/data/3074462/fileData.do#layer_data_infomation
