@@ -23,7 +23,7 @@ This project builds and evaluates a predictive model using structured public dat
 .
 ├── code/      # Modeling and preprocessing scripts
 ├── data/      # Collected and cleaned datasets
-├── docs/      # Supporting documents and reports
+├── docs       # Supporting documents and reports
 └── README.md
 ```
 
