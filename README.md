@@ -11,10 +11,11 @@ This project builds and evaluates a predictive model using structured public dat
 🗓️ Project Period: March 31, 2025 – April 10, 2025
 
 📊 Data Sources:  
-- 경기도 지역별 범죄율 통계.xlsx  
-- 경기도 지역별 인구수.xlsx  
-- 경기도 지역 내 경찰서.xlsx
-
+- 지역별 범죄율 통계.xlsx  
+- 지역별 인구수.xlsx  
+- 지역 내 경찰서.xlsx
+- ...
+  
 ---
 
 ## 📂 Project Structure
