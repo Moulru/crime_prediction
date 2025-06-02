@@ -52,4 +52,4 @@ This project builds and evaluates a predictive model using structured public dat
 - Byun Sangho  
 - Jung Jinui  
 - Cho Sungwan  
-- Han Jihoon  
+- Han Jihun  
